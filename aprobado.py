@@ -14,4 +14,4 @@ print(determinaraprobado(promedio))
 print("HOLAAAAAAAAAAAAA")
 print("aadfdsfgf")
 print("coco")
-print("cocolisooooo")
+print("cocolisooooo") >:V

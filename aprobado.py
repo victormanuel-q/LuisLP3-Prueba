@@ -12,3 +12,4 @@ promedio = int(input("Promedio: "))
 
 print(determinaraprobado(promedio))
 print("HOLAAAAAAAAAAAAA")
+print("aadfdsfgf")
